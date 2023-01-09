@@ -34,13 +34,26 @@ The raw data is was collected through Google form and uploaded as csv file on [K
 <h5 align="center">THE EFFECTS OF MUSIC ACCORDING TO AGE AND THE NUMBER OF HOURS A DAY THE RESPONDENTS LISTEN TO MUSIC</h5> 
 <img src="./assets/Fourth.png" style="max-width: 240px"/>
 
+<h5 align="center">AGE DISTRIBUTION BY GENRE</h5> 
+<img src="./assets/fourth.png" style="max-width: 240px"/>
+
 <h5 align="center">HOURS PER DAY A RESPONDENT ALLOCATES TO THE STREAMING SERVICES</h5> 
 <img src="./assets/fifth.png" style="max-width: 240px"/>
 
 <h5 align="center">MENTAL HEALTH AND THE CORRESPONDING NUMBER OF SELF-REPORTS</h5> 
 <img src="./assets/second.png" style="max-width: 240px"/>
 
-<h5 align="center">DISTRIBUTION OF AGE</h5> 
-<img src="./assets/third.png" style="max-width: 240px"/>
 
+## ✨ Simple Regression Models with Seaborn
+<img src="./assets/reg.png" style="max-width: 240px"/>
 
+## 📘 Model Creation
+<br>**1. Anxiety predictors** - Simple linear regression model and multiple regression model
+<br>**2. Depression predictors** - Simple linear regression model and multiple regression model
+<br>**3. Insomnia predictor** - Multiple regression model
+<br>**4. OCD predictor** - Multiple regression model
+<br>**5. Music Effects** - Logistic Classification Model
+
+## 🌑 Conclusion
+
+<br>Music genres like Folk music, Kpop, Hiphop, Lofi, Rock and Pop has a positive effect on the anxiety level of the respondent which means that the more they listen to these types of music, the higher the chances of their anxiety levels to increase.different factors may have different impacts on a persons anxiety level. Respondents who are listening to music while working or studying, who are instrumentalists, who are listening to foreign language music and are in their 51-60s have lesser chances of having higher levels of anxiety compared to the others. Listening to Lofi escalates the chances of a person to suffer more from depression. For the last model, music effects, needs more data because there is a clear imbalance in the data distribution. The best way to improve this model is to gather more sample data for the two other classes.
