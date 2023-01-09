@@ -28,10 +28,19 @@ The raw data is was collected through Google form and uploaded as csv file on [K
 - **Permissions** - Permission to publicize data
 
 ## 📊 Data Visualization
+<h5 align="center">DISTRIBUTION OF FAVORITE GENRE AS PER AGE GROUP</h5> 
 <img src="./assets/first.png" style="max-width: 240px"/>
-<img src="./assets/second.png" style="max-width: 240px"/>
-<img src="./assets/third.png" style="max-width: 240px"/>
+
+<h5 align="center">THE EFFECTS OF MUSIC ACCORDING TO AGE AND THE NUMBER OF HOURS A DAY THE RESPONDENTS LISTEN TO MUSIC</h5> 
 <img src="./assets/Fourth.png" style="max-width: 240px"/>
+
+<h5 align="center">HOURS PER DAY A RESPONDENT ALLOCATES TO THE STREAMING SERVICES</h5> 
 <img src="./assets/fifth.png" style="max-width: 240px"/>
+
+<h5 align="center">MENTAL HEALTH AND THE CORRESPONDING NUMBER OF SELF-REPORTS</h5> 
+<img src="./assets/second.png" style="max-width: 240px"/>
+
+<h5 align="center">DISTRIBUTION OF AGE</h5> 
+<img src="./assets/third.png" style="max-width: 240px"/>
 
 
